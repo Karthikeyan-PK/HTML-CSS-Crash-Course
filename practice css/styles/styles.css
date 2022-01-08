@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+
+body{
+    background-image: url('https://img.freepik.com/free-vector/minimalist-white-abstract-wallpaper_23-2148816029.jpg?size=626&ext=jpg');
+}
+.navigation{
+    font-family: 'Raleway', sans-serif;
+    margin:auto;
+}
+.main{
+    font-family: 'Raleway', sans-serif;
+    max-width: 300;
+    margin:auto;
+}
+.navBar{
+    background-color: #333;
+    position: static;
+    top: 0;
+    width: 90%;
+    
+}
+.navBar li {
+    display: inline-block;
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.navBar li a {
+    display: inline-block;
+    color: rgb(87, 206, 164);
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+.navBar li a:hover {
+    background-color: rgb(137, 194, 31);
+}
+.active {
+    background-color: #199b19;
+}
+
+h1{
+    color:blue;
+}
+h1 a{
+    color:mediumorchid;
+}
+h2 a:hover{
+    text-decoration: none;
+    color:goldenrod;
+}
+ul{
+    list-style: none;
+}
+ul li:hover{
+    color:goldenrod;
+}
+ul li a:hover{
+    text-decoration: none;
+    color:green;
+}
+.kakashi{
+    box-shadow: 5px 10px green;
+}
+.naruto{
+    border-radius: 20px;
+}
+.hinata{
+    box-shadow: 5px 10px violet;
+}
+.naruto:hover{
+    box-shadow: 0px 3px 36px 2px goldenrod;
+}
+.images {
+    display: inline - block;
+    margin: 0 px;
+    padding: 10 px;
+}
