@@ -1,6 +1,6 @@
 # HTML-Crash-Course
 
-Learned the basic tags to creat a website only using HTML.
+Learned the basic tags to create a website only using HTML.
 Also created a Youtube website clone with this.
 
 ### YouTube Video used for this learning:
