@@ -6,5 +6,5 @@
 
 ### YouTube Videos used for this learning:
 
-https://www.youtube.com/watch?v=FNGoExJlLQY&list=PL5A4OBCbcgT7kiW3t3WQjH7tAJAP6hs-M&index=11 [HTML course]
-https://www.youtube.com/watch?v=KN6oBEOz2ZI&list=PL5A4OBCbcgT7kiW3t3WQjH7tAJAP6hs-M&index=13 [CSS course]
+- https://www.youtube.com/watch?v=FNGoExJlLQY&list=PL5A4OBCbcgT7kiW3t3WQjH7tAJAP6hs-M&index=11 [HTML course]
+- https://www.youtube.com/watch?v=KN6oBEOz2ZI&list=PL5A4OBCbcgT7kiW3t3WQjH7tAJAP6hs-M&index=13 [CSS course]
