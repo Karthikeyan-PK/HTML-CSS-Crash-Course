@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    background-image: url("../images/email-pattern.png");
+    text-align: center;
+    padding-bottom: 60px;
+    
+}
+.navBar{
+    text-align: center;
+    
+}
+.active {
+    background-color: #10489c;
+  }
+.content{
+    max-width: 700px;
+    padding-top: 60px;
+    margin: auto;
+}
+
+h1{
+    line-height: 1cm;
+    font-weight: 600;
+
+}
+section{
+    font-size: 22px;
+    line-height: 1cm;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
